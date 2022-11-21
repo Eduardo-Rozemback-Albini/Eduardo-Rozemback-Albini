@@ -27,4 +27,5 @@ Capaz de fuçar até aprender!
 
 <div
      <a target: "blank" href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>>
+</div>
   
