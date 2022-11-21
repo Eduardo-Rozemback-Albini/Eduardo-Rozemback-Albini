@@ -28,4 +28,10 @@ Capaz de fuçar até aprender!
 <div>
      <a href="https://api.whatsapp.com/send?phone=5541984171747" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+<br>
+<hr>
+<div>
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
   
