@@ -1,13 +1,4 @@
 ### Hi there 👋
-<h1>Olá, eu sou o Edu</h1>
-
-	<p>Atualmente trabalho como vendedor externo no ramo de bebidas, sendo distribuidor oficial da Cocal-Cola.</p>
-	<p>Em novembro de 2020 tive meu primeiro contato com desenvolvimento.</p>
-
-<!--
-**Eduardo-Rozemback-Albini/Eduardo-Rozemback-Albini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
