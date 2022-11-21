@@ -26,6 +26,6 @@ Capaz de fuçar até aprender!
 - ⚡ Sei que ainda sou extremamente Nutella, mas completar este perfil está sendo um grande avanço. Um abraço a todos e obrigado por ler!
 
 <div>
-     <a href="https://api.whatsapp.com/send?phone=5541984171747" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+     <a target="blank" href="https://api.whatsapp.com/send?phone=5541984171747"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
