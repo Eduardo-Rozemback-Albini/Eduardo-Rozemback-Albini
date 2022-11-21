@@ -24,3 +24,7 @@ Capaz de fuçar até aprender!
 - 📫 Para chegar até mim, estou disponível no E-mail: eduardo.albini.86@gmail.com
 
 - ⚡ Sei que ainda sou extremamente Nutella, mas completar este perfil está sendo um grande avanço. Um abraço a todos e obrigado por ler!
+
+<div
+     <a target: "blank" href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>>
+  
