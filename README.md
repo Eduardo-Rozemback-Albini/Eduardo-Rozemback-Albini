@@ -7,7 +7,7 @@ Sou novo por aqui, estou descobrindo as funcionalidades desta ferramenta, que po
 - 🔭 Atualmente eu sou vendedor externo numa distribuidora oficial da Coca-Cola.
 Tenho facilidade em me comunicar com as pessoas dentro do ramo de vendas, fato que mantenho uma boa constância no atingimento de metas da companhia.
 
-Experiência anterior como vendedor loja física Casas Bahia. Ingressei na empresa no exato período em que as lojas fisicas faziam a transição para também vendas online. Me tornando um agente digital. Foi essa experiência que aguçou minha curiosidade sobre o universo da programação. Compreendi palavras que nunca tinha me atentado ao significado, como: marketplace, contatos Leads, e posteriormente Dropshipping. Coisas que me chamaram a atenção.
+Experiência anterior como vendedor loja física Casas Bahia. Ingressei na empresa no exato período em que as lojas fisicas faziam a transição para o mercado online. Me tornando um agente digital. Foi essa experiência que aguçou minha curiosidade sobre o universo da programação. Compreendi palavras que nunca tinha me atentado ao significado, como: marketplace, contatos Leads, e posteriormente Dropshipping. Coisas que me chamaram a atenção.
 
 - 🌱 Foi então que em Novembro de 2020 adquiri um curso, muito, muito barato mesmo e de excelente conteúdo para iniciantes, na plataforma Udemmy. De lá para cá embarquei em diversas jornadas de estudos intercalando entre períodos de ausência aos estudos. Entretanto, HOJE estou novamente dedicado e focado para consumir toda essas informações do mundo da programação.
 
