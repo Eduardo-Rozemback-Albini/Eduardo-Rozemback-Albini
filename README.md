@@ -11,7 +11,7 @@ Experiência anterior como vendedor loja física Casas Bahia. Ingressei na empre
 
 - 🌱 Foi então que em Novembro de 2020 adquiri um curso, muito, muito barato mesmo e de excelente conteúdo para iniciantes, na plataforma Udemmy. De lá para cá embarquei em diversas jornadas de estudos intercalando entre períodos de ausência aos estudos. Entretanto, HOJE estou novamente dedicado e focado para consumir toda essas informações do mundo da programação.
 
-- 🤔 Estou procurando por ajuda para ingressar no mercado de trabalho. Tenho 36 anos e acredito que muitos entendem o quão dificil é migrar de profissão nesta idade. 
+- 🤔 Estou procurando por ajuda para ingressar no mercado de trabalho nesta área. Não estimo por grande remuneração e benefícios, busco oportunidade para me desenvolver mais rápidamente com a experiência prática. Tenho 36 anos e acredito que muitos entendem o quão dificil é migrar de profissão a esta altura. Desde já, agradeço qualquer tipo de apoio. 
 
 Sou 
 obstinado;
