@@ -2,7 +2,7 @@ Olá,  sejam bem vindos a minha página no GitHub! 🤙
 
 Eu sou o Eduardo!
 
-Sou novo por aqui, estou descobrindo as funcionalidades desta ferramenta, que por sinal de primeiro contato é bem interessante e fascinante.
+Sou novo por aqui, estou descobrindo as funcionalidades desta ferramenta, que por sinal de primeiro contato é bem interessante.
 
 - 🔭 Atualmente eu sou vendedor externo numa distribuidora oficial da Coca-Cola.
 Tenho facilidade em me comunicar com as pessoas dentro do ramo de vendas, fato que mantenho uma boa constância no atingimento de metas da companhia. 📈🚀🚀
