@@ -37,7 +37,7 @@ Capaz de fuçar até aprender!
 </div>
 <div>
      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">👶
-     <img src="[https://img.shields.io/badge](https://www.flaticon.com/br/icone-gratis/arquivo_2570575?term=python&page=1&position=29&origin=search&related_id=2570575)">
+     <img src="https://img.shields.io/badge](https://www.flaticon.com/br/icone-gratis/arquivo_2570575?term=python&page=1&position=29&origin=search&related_id=2570575)">
 </div>
      
 
