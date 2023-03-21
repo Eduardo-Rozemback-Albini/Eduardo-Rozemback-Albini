@@ -23,7 +23,6 @@ Capaz de fuçar até aprender!
 
 - 📫 Para chegar até mim, estou disponível no E-mail: eduardo.albini.86@gmail.com
 
-- ⚡ Sei que ainda sou extremamente Nutella, mas completar este perfil está sendo um grande avanço. Um abraço a todos e obrigado por ler!
 <br>
 <img width="200px" src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif">
 <div>
