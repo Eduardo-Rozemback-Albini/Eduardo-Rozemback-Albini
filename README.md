@@ -1,27 +1,24 @@
-Olá,  sejam bem vindos a minha página no GitHub! 🤙
+👋 Olá! Eu sou o Eduardo, também conhecido como Mestre da Codificação (haha ChatGPT me chama assim. :sweat_smile:
 
-Eu sou o Eduardo!
+💻 Desenvolvedor Full Stack em formação com paixão por tecnologia e inovação. Tenho projetos em HTML, CSS, JavaScript, jQuery, PHP, MySQL, PDO, e estou explorando SPAs (Single Page Applications).
 
-Sou novo por aqui, estou descobrindo as funcionalidades desta ferramenta, que por sinal de primeiro contato é bem interessante.
+🚀 Trabalhando atualmente na Gebon Sorvetes, onde aplico minha experiência comercial para prospectar e expandir nosso mercado.
 
-- 🔭 Atualmente eu sou vendedor externo numa distribuidora oficial da Coca-Cola.
-Tenho facilidade em me comunicar com as pessoas dentro do ramo de vendas, fato que mantenho uma boa constância no atingimento de metas da companhia. 📈🚀🚀
+🎯 Objetivo: Tornar-me um desenvolvedor Full Stack especializado em Vue e Laravel.
 
-Experiência anterior como vendedor loja física Casas Bahia. Ingressei na empresa no exato período em que as lojas fisicas faziam a transição para o mercado online. Me tornando um agente digital. Foi essa experiência que aguçou minha curiosidade sobre o universo digital. Passei a ouvir palavras que nunca tinha me atentado ao real significado, como: marketplace, contatos Leads, E-commerce. Chegando ao ponto de me fazer compreender que existe uma oceano de oportunidades em empreendimentos de vendas online. E dada a minha personalidade de compreender todos os aspectos de um projeto eu senti a necessidade de aprender a programar.
+🛠️ Ferramentas e Tecnologias:
+- **Front-end:** HTML, CSS, JavaScript, jQuery
+- **Back-end:** PHP, MySQL, PDO
+- **Frameworks:** Vue.js (em aprendizado)
+- **Ambientes de Desenvolvimento:** VSCode, InfinityFree (hospedagem gratuita)
 
-- 🌱 Foi então que em Novembro de 2020 adquiri um curso, muito, muito barato mesmo e de excelente conteúdo para iniciantes, na plataforma Udemmy. De lá para cá embarquei em diversas jornadas de estudos intercalando entre períodos de ausência aos estudos. Entretanto, HOJE estou novamente dedicado e focado para consumir toda essas informações do mundo da programação.
+📈 Experiência Comercial:
+- Melhor vendedor em meu mês de estreia na Nova Geração, distribuidora oficial da Coca-Cola.
+- Capacitado em vendas e atendimento ao público pelas Casas Bahia.
 
-- 🤔 Estou procurando por ajuda para ingressar no mercado de trabalho nesta área. Não estimo por grande remuneração e benefícios, busco oportunidade para me desenvolver mais rápidamente com a experiência prática. Tenho 36 anos e acredito que muitos entendem o quão dificil é migrar de profissão a esta altura. Desde já, agradeço qualquer tipo de apoio. 
+💡 Curioso e sempre em busca de novos desafios. Adoro criar soluções inovadoras e eficientes, tanto na área de tecnologia quanto no setor comercial.
 
-Sou 
-obstinado;
-detalhista;
-sem medo ou vergonha de admitir que não entendi.
-Capaz de fuçar até aprender!
-
-- 💬 Pergunte-me algo! Será um prazer interagir com qualquer pessoa desta comunidade.
-
-- 📫 Para chegar até mim, estou disponível no E-mail: eduardo.albini.86@gmail.com
+📫 Vamos nos conectar! [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eduardo-rozemback-albini-4aa839221)) | [Email](mailto:eduardo.albini.86@gmail.com)
 
 <br>
 <img width="200px" src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif">
@@ -32,9 +29,7 @@ Capaz de fuçar até aprender!
 <hr>
 
 <div>
-   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">  
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> 
 </div>
 <div>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
