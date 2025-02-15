@@ -6,7 +6,7 @@ Após concluir com sucesso o Curso Desenvolvimento Web Completo com Jamilton Dam
 
 Atualmente, estou me dedicando à faculdade de Ciência da Computação na Estácio, onde estou me aprofundando nos fundamentos da programação. O estudo de C tem sido um capítulo interessante, especialmente pela diferença entre linguagens compiladas e interpretadas. Essa nova perspectiva está aguçando minha curiosidade e me motivando a aprender ainda mais sobre o que acontece por trás do código.
 
-📫 Vamos nos conectar! [LinkedIn](https://www.linkedin.com/in/eduardo-rozemback-albini-4aa839221){:target="_blank"}
+📫 Vamos nos conectar! <a href="https://www.linkedin.com/in/eduardo-rozemback-albini-4aa839221" target="_blank">LinkedIn</a>
 
 <br>
 <img width="200px" src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif">
