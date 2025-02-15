@@ -1,22 +1,10 @@
-👋 Olá! Eu sou o Eduardo, também conhecido como Mestre da Codificação (haha ChatGPT me chama assim. :sweat_smile:
+Desenvolvedor Full Stack em Formação
 
-💻 Desenvolvedor Full Stack em formação com paixão por tecnologia e inovação. Tenho projetos em HTML, CSS, JavaScript, jQuery, PHP, MySQL, PDO, e estou explorando SPAs (Single Page Applications).
+Após concluir com sucesso o Curso Desenvolvimento Web Completo com Jamilton Damasceno e Jorge Sant Ana, absorvi de forma sólida os conceitos de HTML, CSS, JavaScript, PHP, MySQL, AJAX e MVC. Esses conceitos já fazem parte do meu repertório, o que facilita meu entendimento e evolução na faculdade. Agora, mais do que nunca, sei que estou pronto para seguir essa jornada com confiança.
 
-🚀 Trabalhando atualmente na Gebon Sorvetes, onde aplico minha experiência comercial para prospectar e expandir nosso mercado.
+🎓 Próxima Parada: Ciência da Computação na Estácio
 
-🎯 Objetivo: Tornar-me um desenvolvedor Full Stack especializado em Vue e Laravel.
-
-🛠️ Ferramentas e Tecnologias:
-- **Front-end:** HTML, CSS, JavaScript, jQuery
-- **Back-end:** PHP, MySQL, PDO
-- **Frameworks:** Vue.js (em aprendizado)
-- **Ambientes de Desenvolvimento:** VSCode, InfinityFree (hospedagem gratuita)
-
-📈 Experiência Comercial:
-- Melhor vendedor em meu mês de estreia na Nova Geração, distribuidora oficial da Coca-Cola.
-- Capacitado em vendas e atendimento ao público pelas Casas Bahia.
-
-💡 Curioso e sempre em busca de novos desafios. Adoro criar soluções inovadoras e eficientes, tanto na área de tecnologia quanto no setor comercial.
+Atualmente, estou me dedicando à faculdade de Ciência da Computação na Estácio, onde estou me aprofundando nos fundamentos da programação. O estudo de C tem sido um capítulo interessante, especialmente pela diferença entre linguagens compiladas e interpretadas. Essa nova perspectiva está aguçando minha curiosidade e me motivando a aprender ainda mais sobre o que acontece por trás do código.
 
 📫 Vamos nos conectar! [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eduardo-rozemback-albini-4aa839221)) | [Email](mailto:eduardo.albini.86@gmail.com)
 
